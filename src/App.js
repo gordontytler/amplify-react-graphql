@@ -17,6 +17,15 @@ function App() {
         >
           Learn React
         </a>
+        <p></p>
+        <a
+          className="App-link"
+          href="https://aws.amazon.com/getting-started/hands-on/host-static-website/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          AWS getting started - Host a static website.
+        </a>
       </header>
     </div>
   );
