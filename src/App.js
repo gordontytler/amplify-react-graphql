@@ -24,7 +24,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          AWS getting started - Host a static website.
+          AWS getting started - Host a static website.  version 2
         </a>
       </header>
     </div>
